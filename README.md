@@ -83,11 +83,5 @@ Selesai untuk nilai K  anda bisa memasukan sesuai keinginan anda.
 
 Selamat mencoba, semoga bermanfaat
 
-#### Link Tugas UTS pengolahan Citra
-
-Hasil Streamlit :
-[https://adamwebdev.streamlit.app/tugas](https://adamwebdev.streamlit.app/tugas)
-
-
 
 
